@@ -7,7 +7,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard UI](docs/UI-of-ad-budget-optimizer.jpg)
+![Dashboard UI](https://github.com/kashifkhan117401-bit/Digital-Advertising-Budget-Optimizer/blob/main/assets/UI-of-ad-budget-optimizer.jpg?raw=true)
 
 ---
 
