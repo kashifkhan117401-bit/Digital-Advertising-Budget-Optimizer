@@ -173,35 +173,35 @@ All charts are auto-generated and saved to `charts/` on each pipeline run.
 ### ROAS by Platform
 > Revenue earned per unit of spend — the primary efficiency signal.
 
-![ROAS by Platform](docs/charts/01_roas_by_platform.png)
+![ROAS by Platform](https://github.com/kashifkhan117401-bit/Digital-Advertising-Budget-Optimizer/blob/main/charts/01_roas_by_platform.png?raw=true)
 
 ---
 
 ### Spend vs Revenue by Platform
 > Absolute scale comparison showing which platforms drive the most volume.
 
-![Spend vs Revenue](docs/charts/02_spend_vs_revenue.png)
+![Spend vs Revenue](https://github.com/kashifkhan117401-bit/Digital-Advertising-Budget-Optimizer/blob/main/charts/02_spend_vs_revenue.png?raw=true)
 
 ---
 
 ### Budget Share: Current vs Recommended
 > Side-by-side view of today's allocation versus the optimizer's recommendation, with share limit bands.
 
-![Budget Share](docs/charts/03_budget_share_current_vs_recommended.png)
+![Budget Share](https://github.com/kashifkhan117401-bit/Digital-Advertising-Budget-Optimizer/blob/main/charts/03_budget_share_current_vs_recommended.png?raw=true)
 
 ---
 
 ### Diminishing-Returns Response Curves
 > Power-law revenue response curves per platform, with current and recommended spend marked. The flatter the curve, the faster returns diminish.
 
-![Response Curves](docs/charts/04_response_curves.png)
+![Response Curves](https://github.com/kashifkhan117401-bit/Digital-Advertising-Budget-Optimizer/blob/main/charts/04_response_curves.png?raw=true)
 
 ---
 
 ### Monthly Revenue by Platform
 > Stacked monthly revenue showing seasonal and weekly patterns in the simulated data.
 
-![Monthly Revenue]()
+![Monthly Revenue](https://github.com/kashifkhan117401-bit/Digital-Advertising-Budget-Optimizer/blob/main/charts/05_monthly_revenue_by_platform.png?raw=true)
 
 ---
 
