@@ -201,7 +201,7 @@ All charts are auto-generated and saved to `charts/` on each pipeline run.
 ### Monthly Revenue by Platform
 > Stacked monthly revenue showing seasonal and weekly patterns in the simulated data.
 
-![Monthly Revenue](docs/charts/05_monthly_revenue_by_platform.png)
+![Monthly Revenue]()
 
 ---
 
@@ -230,7 +230,7 @@ All charts are auto-generated and saved to `charts/` on each pipeline run.
 
 > Based on power-law response curves fitted to historical daily spend/revenue, with share limits of 5%–40% per platform.
 
-![Budget Optimizer Output](docs/budget-optimizer.jpg)
+![Budget Optimizer Output](https://github.com/kashifkhan117401-bit/Digital-Advertising-Budget-Optimizer/blob/main/assets/budget-optimizer.jpg?raw=true))
 
 ### Recommended split of Rs. 1,000,000
 
