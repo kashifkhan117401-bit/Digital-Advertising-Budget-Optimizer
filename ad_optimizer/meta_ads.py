@@ -1,6 +1,6 @@
 """Read-only client for Meta Marketing API campaign insights."""
 from __future__ import annotations
-
+ 
 import os
 from typing import Any
 
