@@ -1,7 +1,7 @@
 """Advisory budget allocation using observed campaign performance."""
 from __future__ import annotations
 
-import pandas as pd
+import pandas as pd 
 
 
 def recommend_budget(
