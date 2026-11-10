@@ -17,7 +17,7 @@
 - [Tech Stack](#-tech-stack)
 - [Setup](#-setup)
 - [Running the Project](#-running-the-project)
-- [Charts & Visualizations](#-charts--visualizations)
+- [Charts & Visualizations](#-charts--visualizations) 
 - [Platform KPI Results](#-platform-kpi-results-10m-records)
 - [Budget Recommendation](#-budget-recommendation-10m-records)
 - [Benchmark Results](#-benchmark-results)
