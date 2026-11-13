@@ -24,7 +24,7 @@
 - [Architecture](#-architecture)
 - [Testing](#-testing)
 - [Limitations](#-limitations)
-- [Future Improvements](#-future-improvements)
+- [Future Improvements](#-future-improvements) 
 
 ---
 
