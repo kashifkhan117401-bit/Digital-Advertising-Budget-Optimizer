@@ -1,5 +1,5 @@
 # 📊 Digital Advertising Budget Optimizer
-> **Answer the management question:** *"Where should we spend the next Rs. 1 million?"*  
+> **Answer the management question:** *"Where should we spend the next Rs. 1 million?"*   
 > A big-data analytics pipeline that simulates digital marketing campaigns at scale (10K → 10M records), benchmarks three processing engines, calculates marketing KPIs, and recommends an optimal advertising budget split across platforms. 
 
 ---
