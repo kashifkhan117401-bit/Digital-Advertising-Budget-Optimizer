@@ -109,7 +109,7 @@ def main(argv: list[str] | None = None) -> None:
     banner("5. CHARTS")
     charts = generate_charts(args.charts_dir, by_platform, daily, optimizer, table,
                              args.min_share, args.max_share, benchmark)
-    for chart in charts:
+    for chart in charts: 
         print(f"  {chart}")
     print(f"\nDone in {time.perf_counter() - started:.1f}s. Outputs saved to {results_dir}/ and {args.charts_dir}/")
 
