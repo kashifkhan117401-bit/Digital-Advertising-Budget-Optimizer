@@ -1,7 +1,7 @@
 """Read-only client for Meta Marketing API campaign insights."""
 from __future__ import annotations
  
-import os
+import os 
 from typing import Any
 
 import requests
