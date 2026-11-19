@@ -12,7 +12,7 @@ from budget_optimizer import BudgetOptimizer, add_campaign_amounts, format_recom
 from data_generator import DEFAULT_SEED, SCALES, ensure_dataset
 from metrics_calculator import aggregate_csv, format_kpi_table, kpis_from_csv
 
-DEFAULT_CAMPAIGN_BUDGET = 1_000_000.0
+DEFAULT_CAMPAIGN_BUDGET = 1_000_000.0 
 
 
 def banner(title: str) -> None:
